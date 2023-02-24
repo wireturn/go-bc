@@ -4,7 +4,7 @@ go 1.15
 
 require (
 	github.com/kr/pretty v0.1.0 // indirect
-	github.com/libsv/go-bk v0.0.0-20210430094342-ff08e691962b
+	github.com/libsv/go-bk v0.1.6
 	github.com/libsv/go-bt/v2 v2.0.0-20210730150403-97fd3b293e05
 	github.com/pkg/errors v0.9.1
 	github.com/stretchr/testify v1.7.0
